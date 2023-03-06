@@ -13,4 +13,6 @@ ___ Changes Made _____________________________________
 
 4| Added MD Cheatsheet link to WiKi
 
-5| 
+5| Added 'Home' to navigation list at the top of the page
+
+6| 
