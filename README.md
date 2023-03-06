@@ -17,4 +17,6 @@ ___ Changes Made _____________________________________
 
 6| Changet Github link from website repository to profile page
 
-7| 
+7| Created 'Levels.html' for the 'Levels' page of the website
+
+8| 
