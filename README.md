@@ -19,6 +19,6 @@ ___ Changes Made _____________________________________
 
 7| Created 'Levels.html' for the 'Levels' page of the website
 
-8| Fixed error on line 16 of 'Home' and 'Levels' where a heading was opened with '<h3>' and closed with '</h2>'
+8| Fixed error on line 16 of 'Home' and 'Levels' where a heading was opened with `<h3>` and closed with `</h2>`
 
 9| 
