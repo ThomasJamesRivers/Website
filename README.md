@@ -15,4 +15,6 @@ ___ Changes Made _____________________________________
 
 5| Added 'Home' to navigation list at the top of the page
 
-6| 
+6| Changet Github link from website repository to profile page
+
+7| 
