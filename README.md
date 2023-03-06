@@ -11,4 +11,6 @@ ___ Changes Made _____________________________________
 
 3| Changed homepage html file name from 'HTML' to 'Home'
 
-4| 
+4| Added MD Cheatsheet link to WiKi
+
+5| 
