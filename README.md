@@ -21,4 +21,8 @@ ___ Changes Made _____________________________________
 
 8| Fixed error on line 16 of 'Home' and 'Levels' where a heading was opened with `<h3>` and closed with `</h2>`
 
-9| 
+9| Renamed 'Home' to 'Index'
+
+10| Added stylesheet 'IndexStyle'to 'Index'
+
+11| Added styling to title and first paragraph of 'Index'
