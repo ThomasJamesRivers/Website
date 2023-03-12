@@ -26,3 +26,9 @@ ___ Changes Made _____________________________________
 10| Added stylesheet 'IndexStyle'to 'Index'
 
 11| Added styling to title and first paragraph of 'Index'
+
+12| Changed filing system for better page organisation
+
+13| Finished filing system
+
+14| 
