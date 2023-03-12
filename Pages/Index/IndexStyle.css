@@ -1,8 +1,47 @@
-h1 {
-color:#008cffff;
-font-size: 30px;
+head, body {
+    background-color: #010101;
 }
+h1 {
+color:rgb(158, 211, 255);
+font-size: 70px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-top: 0.5%;
+margin-bottom: 0px;
+margin-left: 2%;
+}
+
+h3 {
+color: rgb(80, 165, 255);
+font-size: 50px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-top: 5px;
+margin-bottom:5px;
+margin-left: 3%;
+}
+
 .BodyParagraph {
-color: #00325bff;
-font-size: 15px;
+color: rgb(0, 140, 255);
+font-weight: 300;
+font-size: 30px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-left: 1%;
+}
+
+.GMText {
+    color: rgb(60, 167, 255);
+    font-size: 32px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 1%;
+}
+.box {
+height: 50px;
+width: 50 px;
+padding: 10px;
+margin: 0px;
+border: 5px solid black;
+}
+.TopMenu {
+color: #00679a;
+margin-top: 3px;
+max-lines: 1;
 }
