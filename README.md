@@ -35,4 +35,6 @@ ___ Changes Made _____________________________________
 
 15| Styled some of the text in 'Index' through 'IndexStyle'
 
-16|
+16| Updated styles
+
+17| Changed 'index' backround colour to `#010101ff`
