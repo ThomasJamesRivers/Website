@@ -33,4 +33,6 @@ ___ Changes Made _____________________________________
 
 14| Finished redoing file links
 
-15| 
+15| Styled some of the text in 'Index' through 'IndexStyle'
+
+16|
