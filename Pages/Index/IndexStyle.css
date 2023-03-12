@@ -1,8 +1,8 @@
 head, body {
-    background-color: #010101;
+    background-color: #010101ff;
 }
 h1 {
-color:rgb(158, 211, 255);
+color:#9ed3ffff;
 font-size: 70px;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 margin-top: 0.5%;
@@ -11,7 +11,7 @@ margin-left: 2%;
 }
 
 h3 {
-color: rgb(80, 165, 255);
+color: #50a5ffff;
 font-size: 50px;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 margin-top: 5px;
@@ -20,7 +20,7 @@ margin-left: 3%;
 }
 
 .BodyParagraph {
-color: rgb(0, 140, 255);
+color: #008cffff;
 font-weight: 300;
 font-size: 30px;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -28,7 +28,7 @@ margin-left: 1%;
 }
 
 .GMText {
-    color: rgb(60, 167, 255);
+    color: #3ca7ffff;
     font-size: 32px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-left: 1%;
@@ -38,10 +38,16 @@ height: 50px;
 width: 50 px;
 padding: 10px;
 margin: 0px;
-border: 5px solid black;
+border: 5px solid rgb(255, 255, 255);
 }
 .TopMenu {
-color: #00679a;
+color: #00679aff;
 margin-top: 3px;
 max-lines: 1;
+}
+.TopMenu1 {
+color: rgb(42, 156, 213);
+margin-top: 3px;
+max-lines: 1;
+margin-bottom: -2px;
 }
